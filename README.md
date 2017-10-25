@@ -17,7 +17,7 @@ git reset HEAD~1
 
 3) undo your git reset HEAD~X
 ```
-git reset 'HEAD@{X}'
+git reset HEAD@{X}
 ```
 
 4) fix your latest commit without changing the snapshot 
